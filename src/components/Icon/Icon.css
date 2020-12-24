@@ -1,0 +1,21 @@
+
+
+svg {
+    width: 25px;
+  }
+  
+  svg:hover {
+    fill: #f05751
+  }
+
+  svg.punk:hover:before {
+    transform: scale(1.2);
+    box-shadow: 0 0 15px #f05751;
+    filter: blur(3px);
+  }
+  
+  svg.punk:hover {
+    color: #ffa502;
+    box-shadow: 0 0 15px #f05751;
+    text-shadow: 0 0 15px #f05751;
+  }

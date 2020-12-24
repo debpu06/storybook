@@ -1,0 +1,44 @@
+  h2 {
+      padding-bottom: .5rem;
+      padding-top: 1.5rem;
+      margin-bottom: 2rem; 
+      outline: none;
+  }
+
+
+
+  h2.primary.punk:before {
+    box-shadow: 0 0 15px #f05751;
+    filter: blur(3px);
+  }
+  
+  h2.primary.punk {
+    color: #ffa502;
+    text-shadow: 0 0 15px #f05751;
+    text-transform: uppercase;
+    font-family: Tomorrow, sans-serif;
+    border-bottom: none;
+  }
+
+
+  h2.secondary.punk:before {
+    box-shadow: 0 0 15px #84888b;
+    filter: blur(3px);
+  }
+  
+  h2.secondary.punk {
+    color: #ffffff;
+    text-shadow: 0 0 15px #84888b;
+    text-transform: uppercase;
+    font-family: Tomorrow, sans-serif;
+    border-bottom: none;
+  }
+
+  h2.primary {
+    border-bottom: 1px solid #2478cc;
+    padding-bottom: 0.5rem;
+    padding-top: 1.5rem;
+    margin-bottom: 2rem;
+  }
+
+  

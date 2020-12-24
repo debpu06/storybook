@@ -1,0 +1,39 @@
+
+.tag {
+    text-decoration: none;
+    display: inline-block;
+    padding: .33333rem .5rem;
+    line-height: 1;
+    border-radius: 2px;
+    border: 2px solid rgb(255, 216, 95);
+    margin-right: .5em;
+  }
+
+  .punk .tag {
+    box-shadow: 0 0 8px rgb(202, 170, 74);
+  }
+
+  .punk .tag:before {
+    box-shadow: 0 0 8px rgb(202, 170, 74);
+  }
+
+  .punk p.tag {
+    font-family: Tomorrow, sans-serif;
+    text-transform: uppercase;
+  }
+
+  .preview a {
+    text-decoration: none;
+  }
+
+  .preview a:visited {
+    color: inherit;
+  }
+
+  .preview h2 {
+      margin-bottom: 0;
+  }
+
+  .preview p {
+    margin-bottom: 1rem;
+  }

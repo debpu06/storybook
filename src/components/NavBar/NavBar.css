@@ -1,0 +1,30 @@
+.navigationItem {
+    margin: 10px;
+    border-bottom: 4px solid transparent;
+    background-color: inherit;
+  }
+
+  .navigationItem a {
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .navigationItem a:visited {
+    color: inherit;
+  }
+
+  .navigationItem a:hover {
+    border-bottom: 4px solid #f05751;
+    width: fit-content;
+  }
+
+  .navigationItem a.punk:hover {
+    border-bottom: none;
+  }
+
+  .themeToggleSeparator {
+    font-weight: bold;
+    color:inherit;
+    margin: 10px;
+    display: none;
+  }
