@@ -1,10 +1,6 @@
 
-  pre {
-    color: rgb(36, 120, 204);
-  }
-
   pre.punk {
-    color: #ffa502;
+    color: #000;
     text-shadow: 0 0 15px #f05751;
     filter: blur(3px);
     filter: drop-shadow(-2px 3px #67e3f3) drop-shadow(-1px -3px #02d8f3) drop-shadow(2px 1px #02d8f3);

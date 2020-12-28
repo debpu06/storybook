@@ -14,7 +14,7 @@ Primary.args = {
     primary: true
 };
 
-Primary.decorators = [(Story) => <div style={{ backgroundColor:'#292a2d', color: '#a9a9b3' }}><Story/></div>]
+Primary.decorators = [(Story) => <div style={{ backgroundColor:'#f2e900', color: '#000' }}><Story/></div>]
 
 export const Secondary = Template.bind({});
 Secondary.args = {
@@ -22,4 +22,4 @@ Secondary.args = {
   primary:false
 };
 
-Secondary.decorators = [(Story) => <div style={{ backgroundColor:'#292a2d', color: '#a9a9b3' }}><Story/></div>]
+Secondary.decorators = [(Story) => <div style={{ backgroundColor:'#f2e900', color: '#000' }}><Story/></div>]

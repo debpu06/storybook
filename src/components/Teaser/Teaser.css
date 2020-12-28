@@ -10,11 +10,12 @@
   }
 
   .punk .tag {
-    box-shadow: 0 0 8px rgb(202, 170, 74);
+    box-shadow: 0 0 8px #02d7f2;
+    border: 2px solid #02d7f2;
   }
 
   .punk .tag:before {
-    box-shadow: 0 0 8px rgb(202, 170, 74);
+    box-shadow: 0 0 8px #02d7f2;
   }
 
   .punk p.tag {
@@ -36,4 +37,5 @@
 
   .preview p {
     margin-bottom: 1rem;
+    font-family: Tomorrow, sans-serif;
   }

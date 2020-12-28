@@ -21,3 +21,7 @@ export const Secondary = Template.bind({});
 Secondary.args = {
   children: 'Button_',
 };
+
+Primary.decorators = [(Story) => <div style={{ backgroundColor:'#f2e900', color: '#000' }}><Story/></div>]
+
+Secondary.decorators = [(Story) => <div style={{ backgroundColor:'#f2e900', color: '#000' }}><Story/></div>]

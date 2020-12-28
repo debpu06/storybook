@@ -27,8 +27,7 @@
   }
   
   h2.secondary.punk {
-    color: #ffffff;
-    text-shadow: 0 0 15px #84888b;
+    color: #000;
     text-transform: uppercase;
     font-family: Tomorrow, sans-serif;
     border-bottom: none;

@@ -16,7 +16,7 @@ PrimaryH2.args = {
   punk: true
 };
 
-PrimaryH2.decorators = [(Story) => <div style={{ backgroundColor:'#292a2d', color: '#a9a9b3' }}><Story/></div>]
+PrimaryH2.decorators = [(Story) => <div style={{ backgroundColor:'#f2e900', color: '#000' }}><Story/></div>]
 
 
 export const SecondaryH2 = Template.bind({});
@@ -26,4 +26,4 @@ SecondaryH2.args = {
   punk: true
 };
 
-SecondaryH2.decorators = [(Story) => <div style={{ backgroundColor:'#292a2d', color: '#a9a9b3' }}><Story/></div>]
+SecondaryH2.decorators = [(Story) => <div style={{ backgroundColor:'#f2e900', color: '#000' }}><Story/></div>]
